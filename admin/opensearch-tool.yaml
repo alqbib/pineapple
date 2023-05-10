@@ -1,0 +1,4 @@
+app:
+  name: pineapple
+  port: 8080
+  run_mode: release
